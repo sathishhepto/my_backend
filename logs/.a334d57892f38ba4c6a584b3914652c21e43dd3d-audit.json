@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 1
+    },
+    "auditLog": "C:\\wamp64\\www\\myTest_file\\example_project\\logs\\.a334d57892f38ba4c6a584b3914652c21e43dd3d-audit.json",
+    "files": [
+        {
+            "date": 1747717351444,
+            "name": "C:\\wamp64\\www\\myTest_file\\example_project\\logs\\app-2025-05-20.log",
+            "hash": "d7d18001e9f0c7819c39af4a50afd972e102f7786c4f8623370eba7687e60732"
+        }
+    ],
+    "hashType": "sha256"
+}

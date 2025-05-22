@@ -1,0 +1,16 @@
+2025-01-28T11:55:50.860Z [WARN]: Authorization header missing or malformed
+2025-01-28T11:56:18.040Z [WARN]: Authorization header missing or malformed
+2025-01-28T11:57:28.768Z [WARN]: Authorization header missing or malformed
+2025-01-28T11:57:46.407Z [INFO]: Token verified successfully for user: mcs@gmail.com
+2025-01-28T12:13:57.409Z [INFO]: Fetched all users successfully
+2025-01-28T12:45:40.065Z [INFO]: Fetched all users successfully
+2025-01-28T12:46:36.988Z [ERROR]: Error verifying token: secret or public key must be provided
+2025-01-28T12:48:27.055Z [ERROR]: Error verifying token: secret or public key must be provided
+2025-01-28T13:31:17.531Z [INFO]: Fetched all users successfully
+2025-01-28T13:31:42.907Z [INFO]: Fetched all users successfully
+2025-01-28T13:36:06.134Z [INFO]: Fetched all users successfully
+2025-01-28T13:36:16.350Z [INFO]: Fetched all users successfully
+2025-01-28T13:36:29.899Z [INFO]: Fetched all users successfully
+2025-01-29T06:57:00.795Z [WARN]: Authorization header missing or malformed
+2025-01-29T06:57:24.411Z [WARN]: Authorization header missing or malformed
+2025-01-29T07:01:17.179Z [INFO]: Fetched all users successfully
